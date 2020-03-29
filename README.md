@@ -1,5 +1,5 @@
 
-# stock-tools
+# investor-tools
 A tool that will munge basic stock activity (buy/sells) via CSV.
 
 ## Goals
