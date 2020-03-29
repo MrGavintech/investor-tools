@@ -30,4 +30,4 @@ Ideally, each security will have been aggregated and will have its own detail si
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MrGavintech/stock-tools.svg)](https://starchart.cc/MrGavintech/stock-tools)
+[![Stargazers over time](https://starchart.cc/MrGavintech/investor-tools.svg)](https://starchart.cc/MrGavintech/investor-tools)
