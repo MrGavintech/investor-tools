@@ -9,7 +9,7 @@ A tool that will munge basic stock activity (buy/sells) via CSV.
 
 ## CSV Input Example
 
-Ideally, each security will have been aggregated and will have its own detail similar to this:
+Ideally, each input CSV will have its own detail similar to this:
 
 **Partial Apex Clearing sample:**
 | Symbol | Net Amt. | Trade Action | Trade Date |
