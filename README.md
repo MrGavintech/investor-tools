@@ -25,5 +25,5 @@ Ideally, each security will have been aggregated and will have its own detail si
 
 | Symbol | Gain/Loss | Wash Sale Loss | 
 |--|--|--|
-| GOOGL | -1.08 | 20.00 |
-| FB | 20.00 | 0 |
+| GOOGL | 0.44 | 0 |
+| FB | -0.77 | -0.77 |
