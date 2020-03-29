@@ -3,7 +3,7 @@
 A tool that will munge basic stock activity (buy/sells) via CSV.
 
 ## Goals
-- Wash Sales
+- [Wash Sales](https://www.investopedia.com/terms/w/washsalerule.asp)
 - Capital gains/losses
 
 
