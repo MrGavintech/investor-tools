@@ -1,2 +1,6 @@
 # stock-tools
-Wash sales, capital gains/losses, and the basic stock CSV data munging are goals of this tool
+A tool that will munge basic stock activity (buy/sells) via CSV.
+
+# Goals
+- Wash Sales
+- Capital gains/losses
