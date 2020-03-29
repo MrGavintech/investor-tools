@@ -27,3 +27,7 @@ Ideally, each security will have been aggregated and will have its own detail si
 |--|--|--|
 | GOOGL | 0.44 | 0 |
 | FB | -0.77 | -0.77 |
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/MrGavintech/stock-tools.svg)](https://starchart.cc/MrGavintech/stock-tools)
