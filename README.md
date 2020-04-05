@@ -1,10 +1,12 @@
 
 # investor-tools
-A tool that will munge basic stock activity (buy/sells) via CSV.
+A tool that will munge basic stock activity (buy/sells) with the input (as CSV). Most brokerage apps should already let you export your activity via CSV.
 
 ## Goals
 - [Wash Sales](https://www.investopedia.com/terms/w/washsalerule.asp)
-- Capital gains/losses
+- Capital gains/losses after selling a share or all shares of a stock
+  - All shares (current data below shows this scenario)
+  - Partial sells (long-term goal)
 
 
 ## CSV Input Example
